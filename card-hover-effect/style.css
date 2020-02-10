@@ -28,6 +28,7 @@ body {
 
 .container .card {
   position: relative;
+  cursor: pointer;
 }
 
 .container .card:hover .face.face1 .content {
